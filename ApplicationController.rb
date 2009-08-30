@@ -132,7 +132,7 @@ class ApplicationController < OSX::NSObject
 			@status_item.setToolTip("#{@mail_count} unread message#{@mail_count == 1 ? '' : 's'}")
 			@status_item.setImage(@mail_icon)
 			@status_item.setAlternateImage(@mail_alter_icon)
-			@status_item.setTitle(@mail_count)
+			@status_item.setTitle(@mail_count.to_s)
 		else
 			@status_item.setToolTip("")
 			@status_item.setImage(@app_icon)
