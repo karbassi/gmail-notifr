@@ -1,6 +1,6 @@
 h3. 0.4.4 (Aug 31, 2009)
 * Bugfix: Message count doesn't show in menu bar under Snow Leopard
-* Note: A new beta version has also been released (still marked as v0.4.3) at http://ashchan.com/gn-beta.zip. It's not stable yet so try it at your own risk. Don't be mad of me if it doesn't work well.
+* Note: A new beta version has also been released (still marked as v0.4.3) at "http://ashchan.com/gn-beta.zip":http://ashchan.com/gn-beta.zip . It's not stable yet so try it at your own risk. Don't be mad at me if it doesn't work well.
 
 h3. 0.4.3 (Aug 2, 2009)
 * New icons from Iiro J&auml;ppinen (http://iirojappinen.com/)
